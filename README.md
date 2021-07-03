@@ -15,7 +15,7 @@ Here Are Some Things To Get You Started.👇
 
 ## 👉[How To Deploy](https://github.com/iamLiquidX/MirrorX/wiki/How-To-Deploy)
 
-## 👉 [For Deployiing On Heroku](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FDBMovies0075%2FzMirrorX&template=https%3A%2F%2Fgithub.com%2FDBMovies0075%2FMirrorX%2Ftree%2Fmaster)
+## 👉 [For Deploying On Heroku](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FDBMovies0075%2FzMirrorX&template=https%3A%2F%2Fgithub.com%2FDBMovies0075%2FMirrorX%2Ftree%2Fmaster)
 
 ## 👉[Commands To Use The Bot](https://github.com/iamLiquidX/MirrorX/wiki/Commands-To-Use-This-Bot)
 
